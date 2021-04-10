@@ -8,4 +8,6 @@ A plugin to add extra "simple" pages to existing ones.
 Trust me, this is mostly your future _self_.
 
 ### Inspired by
-[Simple Wikipedia](https://simple.wikipedia.org/w/index.php?title=Simple_English_Wikipedia&oldid=7466276) feature - For a well known Wikipedia article, replace the URL's starting `en` with `simple`. Example: [`en`](https://en.wikipedia.org/wiki/Student) vs [`simple`](https://simple.wikipedia.org/wiki/Student) for the 'Student' article.
+[Simple Wikipedia](https://simple.wikipedia.org/w/index.php?title=Simple_English_Wikipedia&oldid=7466276) feature - For a well known Wikipedia article, replace the URL's starting `en` with `simple`. 
+
+Example: [`en`](https://en.wikipedia.org/wiki/Student) vs [`simple`](https://simple.wikipedia.org/wiki/Student) for the 'Student' article.
